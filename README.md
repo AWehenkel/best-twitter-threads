@@ -1,1 +1,4 @@
-# best-twitter-threads
+# A  curated list of the best twitter threads for (ML) researchers
+
+## Writing
+- Routine for writing: https://twitter.com/dickiebush/status/1552620538513825792?s=11&t=57pT2-y5SxRHbC-stCsTtA
